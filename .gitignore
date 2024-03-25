@@ -1,0 +1,5 @@
+# CCE waveform data
+cce_data/*
+
+# macOS
+.DS_Store
